@@ -5,6 +5,9 @@ public class Demo{
         String name = "Nari";
         System.out.println(name);
         System.out.println("Hi");
+      int a = 5;
+      System.out.println(a);
+      System.out.println("Hi");
    }
 
 }
